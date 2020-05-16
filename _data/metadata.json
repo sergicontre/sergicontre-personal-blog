@@ -1,0 +1,15 @@
+{
+  "title": "sergicontre.dev",
+  "url": "https://sergicontre.dev",
+  "description": "This is my personal blog.",
+  "feed": {
+    "subtitle": "I am writing about my experiences.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://sergicontre.dev/"
+  },
+  "author": {
+    "name": "Sergio Contreras",
+    "email": "sergicontre@gmail.com"
+  }
+}

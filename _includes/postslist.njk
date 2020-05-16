@@ -1,0 +1,22 @@
+<hr class="dashed">
+{% for post in postslist | reverse %}
+  <div id="wrapper">
+    <div class="block"> <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></div>
+    <div class="block"> 
+      {% if post.data.language == 'en' %}
+        <img src="../../img/icons/flags/gb.svg" width="18">
+      {% else %}
+          <img src="../../img/icons/flags/es.svg" width="18">
+      {% endif %}
+      <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+      {% for tag in post.data.tags %}
+        {%- if collections.tagList.indexOf(tag) != -1 -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+        {%- endif -%}
+      {% endfor %}
+    </div>
+  </div> 
+  <hr class="dashed"> 
+{% endfor %}
+

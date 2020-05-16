@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 8
+before_script:
+  - npm install firebase-tools -g
+  - npm install @11ty/eleventy -g
+  - npm install
+  - eleventy
+script:
+  - firebase deploy --only hosting --token "$FIREBASE_TOKEN"
