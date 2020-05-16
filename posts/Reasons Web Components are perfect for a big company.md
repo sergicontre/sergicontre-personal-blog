@@ -11,7 +11,7 @@ Once you decide to choose which framework or library is the best one to build an
 
 Imagine the following big company 🙄: +2000 developers, apps in 11 countries, mobile and web, use of different frameworks and technology to develop the front-end…
 
-<img src="https://cdn-images-1.medium.com/max/2000/0*8fwhjF8TUZD7MRUa.jpg" class="responsive"></img>
+<img src="https://cdn-images-1.medium.com/max/2000/0*8fwhjF8TUZD7MRUa.jpg" alt="Multiple options that apparently exist" class="responsive"></img>
 
 At this point there are multiple options that apparently exist, but analyzing the frontend ecosystem, needs and trends, the architecture team decided to use Web Components.
 
@@ -36,12 +36,12 @@ Web Components is ideal for sharing elements across your organization or buildin
 
 Have a collection of components that front-end developers can use in their projects like puzzle pieces to build apps, is important to avoid build the same components several times.
 
-<img src="https://cdn-images-1.medium.com/max/2392/1*WJx8boz8Vo9SL1Ahu8WwBA.png" class="responsive"></img>
+<img src="https://cdn-images-1.medium.com/max/2392/1*WJx8boz8Vo9SL1Ahu8WwBA.png" alt="Catalog of BBVA Web Components" class="responsive"></img>
 
 
 This catalog of building blocks, allows to reuse code and functionality between the different applications and countries of the company, considerably improving the time-to-market in the different locations. In many cases, the time it takes for the solutions to be in customers’ hands can be reduced by 50%. And the cost of developing these solutions is up to 40% lower.
 
-<img src="https://cdn-images-1.medium.com/max/2560/1*NWGi4U8OyZ8-nxdIta6w1Q.gif" class="responsive"></img>
+<img src="https://cdn-images-1.medium.com/max/2560/1*NWGi4U8OyZ8-nxdIta6w1Q.gif" alt="Reuse code and functionality between the different applications and countries of the company" class="responsive"></img>
 
 
 ## 3. Seamlessly interoperable

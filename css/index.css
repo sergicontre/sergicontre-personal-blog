@@ -301,7 +301,7 @@ button:hover, a:hover {
   padding: 5px;
 }
 
-#wrapper {
+.wrapper {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
