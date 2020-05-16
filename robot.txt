@@ -1,0 +1,4 @@
+Sitemap: https://sergicontre.dev/sitemap.xml
+
+User-agent: *
+Disallow:
