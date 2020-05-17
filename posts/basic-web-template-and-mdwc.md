@@ -1,5 +1,5 @@
 ---
-title: Basic Web App template & Material Desing Web Components.
+title: Web apps fast recipes - Parte I
 date: 2020-04-07
 tags:
   - web components
@@ -8,7 +8,7 @@ layout: layouts/post.njk
 language: es
 ---
 
-Primera parte de la seríe Web Apps Fast recipes. Pequeños videos-receta de 20-25 minutos que tratarán de ayudarte a construir una Progressive Web App partiendo desde cero. 
+Primera parte de la seríe Web Apps Fast recipes. Pequeños tutoriales de 20-25 minutos que tratarán de ayudarte a construir una Progressive Web App partiendo desde cero. 
 
 <img src="../../img/images/pwa-series-1.png" class="responsive"></img>
 
