@@ -19,24 +19,24 @@ Pueden ser varios los factores que impidan la adopción de nuevas tecnologías y
 
 * Cultura del miedo: entornos donde las personas tienen miedo a correr riesgos o cometer errores por desconocimiento a usar alguna tecnología nueva con la cual no está familiarizada. Muchas veces el desconocimiento a algo nuevo hace llevar a rechazar su uso y seguir utilizando lo que uno conoce. 
 
-* Fragmentación del desarrollo: La existencia de muchos equipos de desarrollo, donde cada uno tiene su manera de hacer las cosas puede llevar a tener una una foto incompleta del propósito común.
+* Fragmentación del desarrollo: La existencia de muchos equipos de desarrollo, donde cada uno tiene su manera de hacer las cosas puede llevar a tener una foto incompleta del propósito común.
 
-* All-or-nothing: un grupo de personas que se divide entre personas que saben "todo" y novatos, sin miembros con un conocimiento medio. Este problema a menudo se refuerza si los expertos siempre hacen todo por sí mismos y no se toman el tiempo para formar nuevos expertos a través de tutorías o documentación. En este escenario, el conocimiento y las responsabilidades continúan acumulándose en aquellos que ya tienen experiencia, y los nuevos miembros del equipo o los novatos deben valerse por sí mismos y crecer más lentamente.
+* All-or-nothing: un grupo de personas que se divide entre miembros que saben "todo" y novatos, sin miembros con un conocimiento medio. Este problema a menudo se refuerza si los miembros expertos siempre hacen todo por sí mismos y no se toman el tiempo para formar nuevos miembros a través de tutorías o documentación. En este escenario, el conocimiento y las responsabilidades continúan acumulándose en aquellos que ya tienen experiencia, y los nuevos miembros del equipo o los novatos deben valerse por sí mismos y crecer más lentamente.
 
 * Parroting: mimetismo sin comprensión. Esto se caracteriza típicamente por copiar patrones o código sin comprender su propósito, a menudo bajo el supuesto de que dicho código es necesario por razones desconocidas.
 
-* Frameworks locked: la elección de un determinado framework o producto puede hacer que evolucionar sobre nuevas tecnologías y arquitecturas no sea posible. Atarse a un framework en lugar de un estándar o lenguaje de programación, puede llevar a una lenta o imposible evolución de la tecnología y quedarse atrapado a la espera de la evolución del mismo por parte del fabricante. 
+* Framework locked: la elección de un determinado framework o producto puede hacer que evolucionar sobre nuevas tecnologías y arquitecturas no sea posible. Acoplarse a un framework en lugar de un estándar o lenguaje de programación, puede llevar a una lenta o imposible evolución de la tecnología y quedarse atrapado a la espera de la evolución del mismo por parte del fabricante. 
 
 * Single point of failure (SPOF): un cuello de botella que ocurre cuando la información crítica está disponible en una sola persona. Los SPOF pueden surgir de buenas intenciones: puede ser fácil caer en el hábito de "déjame encargarme de eso por ti". Pero este enfoque optimiza la eficiencia a corto plazo a costa de una escasa escalabilidad a largo plazo. Esta mentalidad también tiende a conducir a la situación de All-or-nothing.
 
 
 ## 2. Compartir el conocimiento
 
-El intercambio de conocimientos es fundamental para que una empresa logre el éxito en la implantación de nuevas estrategías, ya que puede facilitar la capacidad en la toma de decisiones, construir organizaciones de aprendizaje (a través de una rutina de aprendizaje) y finalmente, estimular el cambio cultural y la innovación.
+El intercambio de conocimientos es fundamental para que una empresa logre el éxito en la implantación de nuevas tecnologías, ya que puede facilitar la capacidad en la toma de decisiones, construir organizaciones de aprendizaje (a través de una rutina de aprendizaje) y finalmente, estimular el cambio cultural y la innovación.
 
 <img src="../../img/images/undraw_online_connection_6778.png" class="responsive"></img>
 
-El conocimiento es de alguna manera el capital más importante (aunque intangible) de una organización de ingeniería de software, y compartir ese conocimiento es crucial para hacer que una organización sea resistente y fuerte a la hora de hacer frente al cambio. Una cultura que promueve el intercambio de conocimiento distribuye ese conocimiento de manera eficiente en toda la organización permitiendo que esa organización escale y crezca con el tiempo. En la mayoría de los casos, las inversiones para facilitar el intercambio de conocimientos obtienen muchos resultados positivos durante la vida de una gran organización.
+El conocimiento es de alguna manera el capital más importante (aunque intangible) de una organización de ingeniería de software, y compartir ese conocimiento es crucial para hacer que una organización sea resistente y fuerte a la hora de hacer frente al cambio. Una cultura que promueve el intercambio de conocimiento distribuye ese conocimiento de manera eficiente en toda la organización permitiendo que esa organización escale y crezca con el tiempo. En la mayoría de los casos, las inversiones para facilitar el intercambio de conocimientos obtienen muchos resultados positivos durante la adopción de tecnología en una gran organización.
 
 
 ## 3. Fomentar un entorno de aprendizaje.
@@ -56,13 +56,12 @@ Obtener ayuda personalizada (one-to-one) es una opción de ancho de banda limita
 
 Algunos ejemplos de diferentes formas de aprendizaje comunitario pueden ser las descritas a continuación:
 
-* __Chats grupales__: cuando se tiene una pregunta, a veces puede resultar difícil obtener ayuda de la persona adecuada. Puede que no esté seguro de quién sabe la respuesta o la persona a la que desea preguntar está ocupada. En estas situaciones, los chats grupales son excelentes, porque puede hacer sus preguntas a muchas personas a la vez y tener una conversación rápida de ida y vuelta con quien esté disponible. Como beneficio adicional, otros miembros del chat grupal pueden aprender de las preguntas y respuestas. Muchas herramientas de chat grupal se pueden archivar y permiten buscar contenidos más tarde. Ejemplos: [Slack](https://slack.com/intl/es-es/), [Microsoft Teams](https://www.microsoft.com/es-ww/microsoft-365/microsoft-teams/group-chat-software),[Webex Teams](https://teams.webex.com/signin), [Google Hangouts](https://hangouts.google.com/)
+* __Chats grupales__: cuando se tiene una pregunta, a veces puede resultar difícil obtener ayuda de la persona adecuada. Puede que no esté seguro de quién sabe la respuesta o la persona a la que desea preguntar está ocupada. En estas situaciones, los chats grupales son excelentes, porque puede hacer sus preguntas a muchas personas a la vez y tener una conversación rápida de ida y vuelta con quien esté disponible. Como beneficio adicional, otros miembros del chat grupal pueden aprender de las preguntas y respuestas. Muchas herramientas de chat grupal se pueden archivar y permiten buscar contenidos más tarde. Ejemplos: [Slack](https://slack.com/intl/es-es/), [Microsoft Teams](https://www.microsoft.com/es-ww/microsoft-365/microsoft-teams/group-chat-software), [Webex Teams](https://teams.webex.com/signin), [Google Hangouts](https://hangouts.google.com/).
 
 <img src="../../img/images/undraw_mobile_messages_u848.png" class="responsive"></img>
 
 * __Listas de correo__: la mayoría de las organizaciones tienden a los flujos de trabajo basados en correo electrónico de forma predeterminada. Esto no es necesariamente porque el correo electrónico sea un medio mejor que otras opciones ( a menudo no lo es )  sino porque a esto está acostumbrada nuestra cultura u organización.
-Hacer una pregunta en una lista de correo público es muy parecido a hacer un chat grupal: la pregunta llega a muchas personas que potencialmente podrían responderla y cualquiera que siga la lista puede aprender de la respuesta. Las listas de correo públicas son fáciles de compartir con una audiencia más amplia. De la misma manera se pueden indexar y posteriormente buscar. Los hilos de email proporcionan una forma más estructurada que los chats grupales. 
-Las listas de correo no están exentas de desventajas. Son muy adecuados para preguntas complicadas que requieren mucho contexto, pero son un medio complejo y lento en los intercambios de información rápidos de ida y vuelta frente el chat grupal.
+Hacer una pregunta en una lista de correo público es muy parecido a hacer un chat grupal: la pregunta llega a muchas personas que potencialmente podrían responderla y cualquiera que siga la lista puede aprender de la respuesta. Las listas de correo públicas son fáciles de compartir con una audiencia más amplia. De la misma manera se pueden indexar y posteriormente buscar. Las listas de correo proporcionan una forma más estructurada que los chats grupales pero no están exentas de desventajas. Son muy adecuados para preguntas complicadas que requieren mucho contexto, pero son un medio complejo y lento en los intercambios de información rápidos de ida y vuelta frente el chat grupal.
 
 <img src="../../img/images/undraw_manage_chats_ylx0.png" class="responsive"></img>
 
@@ -77,12 +76,13 @@ Las listas de correo no están exentas de desventajas. Son muy adecuados para pr
 
 * __Charlas y workshops__: las charlas tecnológicas generalmente consisten en un orador que se presenta directamente a una audiencia hablando sobre un tema concreto. Los workshop, por otro lado, pueden tener un componente de charla, pero a menudo se centran en ejercicios en clase y, por lo tanto, requieren una participación más activa de los asistentes.
 
-Los workshop tienden a funcionar mejor cuando existen las siguientes circunstancias:
+    Los workshop tienden a funcionar mejor cuando existen las siguientes circunstancias:
 
-- El tema es lo suficientemente complejo como para ser una fuente frecuente de malentendidos o dudas. Los workshop requieren mucho trabajo previo para crear contenido, por lo que deben desarrollarse solo cuando abordan necesidades específicas.
-- El tema es relativamente estable. Actualizar los materiales del workshop puede llevar mucho trabajo, por lo que si el tema está evolucionando rápidamente, otras formas de compartir conocimientos tendrán una mejor rentabilidad.
--El tema se beneficia de tener expertos disponibles para responder preguntas y ofrecer ayuda personalizada a los asistentes.
-- La demanda es suficiente para ofrecer un workshop con regularidad.
+    - El tema es lo suficientemente complejo como para ser una fuente frecuente de malentendidos o dudas. Los workshop requieren mucho trabajo previo para crear contenido, por lo que deben desarrollarse solo cuando abordan necesidades específicas.
+    - El tema es relativamente estable. Actualizar los materiales del workshop puede llevar mucho trabajo, por lo que si el tema está evolucionando rápidamente, otras formas de compartir conocimientos tendrán una mejor rentabilidad.
+    
+    - El tema se beneficia de tener expertos disponibles para responder preguntas y ofrecer ayuda personalizada a los asistentes.
+    - La demanda es suficiente para ofrecer un workshop con regularidad.
 
 <img src="../../img/images/undraw_conference_speaker_6nt7.png" class="responsive"></img>
 
@@ -103,7 +103,7 @@ Los workshop tienden a funcionar mejor cuando existen las siguientes circunstanc
 
 * __Código fuente__: el código fuente es conocimiento, por lo que el acto mismo de escribir código puede considerarse una forma de transcripción del conocimiento. Aunque el intercambio de conocimientos puede no ser una intención directa del código de producción, a menudo es un efecto secundario emergente, que puede verse facilitado por la legibilidad y la claridad del código. La documentación del código es una forma de compartir conocimientos. La documentación clara no solo beneficia a los consumidores del mismo, sino también a los futuros mantenedores. De manera similar, los comentarios en el código transmiten conocimiento a lo largo del tiempo: tu estás escribiendo los comentarios expresamente por el bien de los futuros lectores (¡incluido tu en el  futuro!)
 
-Las revisiones de código suelen ser una oportunidad de aprendizaje tanto para los autores como para los revisores. Por ejemplo, la sugerencia de una revisión de código podría presentar al autor un nuevo patrón de prueba, o un revisor podría conocer una nueva biblioteca al ver que el autor la usa en su código.
+    Las revisiones de código suelen ser una oportunidad de aprendizaje tanto para los autores como para los revisores. Por ejemplo, la sugerencia de una revisión de código podría presentar al autor un nuevo patrón de prueba, o un revisor podría conocer una nueva biblioteca al ver que el autor la usa en su código.
 
 <img src="../../img/images/undraw_code_inspection_bdl7.png" class="responsive"></img>
 
