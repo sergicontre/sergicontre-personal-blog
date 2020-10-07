@@ -40,7 +40,7 @@ It is fundamental to the production, quickly and at low cost, of goods and servi
  - A common component model instead proprietary solutions by frameworks.
  - Component-based software engineering
 
-## 4. Approaches and actions to Achieving UI interoperability
+## 4. Approaches and actions to achieving UI interoperability
 
 From an architectural point of view, we could organize the different approaches to interoperate components in different scenarios
 
@@ -79,7 +79,7 @@ I have updated my small laboratory in Glitch with the latest versions of the mai
 - Eleventy (static site generator)
 
 
-I have used a Web Component from The Material Web Components (MWC), a collection of Web Components maintained by Google that implement Material Design.
+I have used a Web Component from [The Material Web Components](https://github.com/material-components/material-components-web-components) (MWC), a collection of Web Components maintained by Google that implement Material Design.
 
 #### [mwc-slider](https://github.com/material-components/material-components-web-components/blob/master/packages/slider/README.md)
 
