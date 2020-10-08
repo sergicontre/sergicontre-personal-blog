@@ -3,6 +3,9 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
+<p>
+    <span class="meta__stats">{{ content | readingTime }} read</span>
+</p>
 
 {{ content | safe }}
 
