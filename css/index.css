@@ -320,3 +320,31 @@ hr.dashed {
   width: 100%;
   height: auto;
 }
+
+.image-cropper {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: auto;
+  top: 10px;
+}
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+.badget-container {
+  width: 120px;
+  height: 80px;
+  margin: auto;
+}
+
+/* resize images */
+.badget-container img {
+  width: 100%;
+  height: auto;
+}

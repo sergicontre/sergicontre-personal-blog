@@ -1,16 +1,28 @@
 ---
-layout: layouts/post.njk
-templateClass: tmpl-post
+layout: layouts/base.njk
 eleventyNavigation:
   key: About Me
   order: 3
 ---
+  
+
+
+
 
 <div class="card">
-  <img src="https://pbs.twimg.com/profile_images/1301122743811833857/XiXs7T3B_400x400.jpg" alt="Sergio Contreras" style="width:100%">
-  <h1>Sergio Contreras</h1>
-  <p>Google Developer Expert in Web Technologies</p>
+
+  <div class="image-cropper">
+    <img src="https://pbs.twimg.com/profile_images/1301122743811833857/XiXs7T3B_400x400.jpg" alt="avatar" class="profile-pic">
+  </div>
+  
+  <h3>Sergio Contreras</h3>
   <p>Software Engineer at BBVA</p>
+  <p>Google Developer Expert in Web Technologies</p>
+  
+  <div class="badget-container">
+    <img src="../../img/images/gde.png"/>
+  </div>
+
   <div class="social">
     <span style="font-size: 24px;">
       <a href="https://twitter.com/sergicontre"><i class="fa fa-twitter"></i></a> 
