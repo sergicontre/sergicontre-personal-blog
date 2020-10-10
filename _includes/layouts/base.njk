@@ -5,10 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <meta name="supported-color-schemes" content="dark light">
+    <meta name="color-scheme" content="dark light">
+    <link rel="stylesheet" href="{{ '/css/common.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/light.css' | url }}" media="(prefers-color-scheme: light)">
+    <link rel="stylesheet" href="{{ '/css/dark.css' | url }}" media="(prefers-color-scheme: dark)">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="/js/babel-polyfills-nomodule.js"></script>
+    <script src="/js/systemjs/dist/s.min.js"></script>
+    <script src="/js/index.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170841341-1"></script>
     <script>
@@ -28,6 +35,10 @@
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
       </ul>
+      <dark-mode-toggle
+        id="dark-mode-toggle-1"
+        permanent
+      ></dark-mode-toggle>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
