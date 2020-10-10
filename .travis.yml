@@ -5,6 +5,6 @@ before_script:
   - npm install firebase-tools -g
   - npm install @11ty/eleventy -g
   - npm install
-  - eleventy
+  - npm run build
 script:
   - firebase deploy --only hosting --token "$FIREBASE_TOKEN"

@@ -7,7 +7,7 @@
     "watch": "eleventy --watch",
     "serve": "npm run build:wc && eleventy --serve",
     "debug": "DEBUG=* eleventy",
-    "build:wc": "rimraf dist && rollup -c rollup.config.js"
+    "build:wc": "rimraf _site/js && rollup -c rollup.config.js"
   },
   "author": {
     "name": "Sergio Contreras",
