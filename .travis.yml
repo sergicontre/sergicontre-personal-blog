@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - 10
+  - 12
 before_script:
   - npm install firebase-tools -g
   - npm install @11ty/eleventy -g
